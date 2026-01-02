@@ -1,0 +1,12 @@
+langgraph
+langchain
+langchain-groq
+pydantic
+python-dotenv
+huggingface_hub
+dotenv
+langchain-community
+beautifulsoup4
+readability-lxml
+requests
+streamlit
